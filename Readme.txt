@@ -4,3 +4,5 @@ Python - Manejo de condicionales, loops, y manejo de arrays con texto en los arc
 
 Python / Jupyter - En el archivo Modelo_jun-PFR-conQ.ipynb se muestra un ejemplo de uso de python, maneja parametros, uso de una función y dos modulos;
 uno para graficar y otro para resolver una ecuación diferencial. Se hace practica de loops sencillos.
+
+Y se hace pull request
